@@ -1,0 +1,155 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Squada One', cursive;
+
+}
+
+/* header */
+header {
+    padding-top: 60px;
+}
+.logo {
+    width: 40%;
+    float: left;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.right-menu {
+    width: 60%;
+    float: left;
+}
+
+.right-menu ul {
+    list-style: none;
+    text-align: right;
+}
+
+.right-menu ul li {
+    display: inline;
+}
+
+.right-menu ul li a {
+    text-decoration: none;
+    color: gray;
+    padding-left: 80px;
+    font-size: 20px;
+}
+
+/* banner */
+
+.banner {
+    padding: 50px;
+}
+
+.main-banner img {
+    width: 100%;
+}
+
+/* article section */
+
+.article {
+    padding-top: 60px;
+}
+
+.article-body p.category {
+    text-transform: uppercase;
+    color: #a1a1a1;
+	font-size: 20px;
+}
+.article-body p.content {
+    color: #a1a1a1;
+    margin-top: 14px;
+}
+.article-body p.comment {
+    margin-top: 30px;
+    color: gray;
+}
+.article-body h1 {
+    font-size: 28px;
+}
+
+
+/* blog */
+
+.comment{
+    padding-top: 20;
+    color: gray;
+}
+/* blog1 */
+
+.blog1{
+	padding-top: 100px;
+	overflow: hidden;
+}
+
+.left-blog1{
+    width: 48%;
+    float: left;
+    box-sizing: border-box;
+    padding-right: 20px;
+}
+.right-blog1{
+    width: 48%;
+    float: left;
+    padding-left: 20px;
+}
+.blog-image1 img{
+    width: 100%
+}
+.content p{
+	padding-top: 20px;
+}
+
+/* news-input */
+
+.news-input{
+	background: #F0F0F0;
+	margin-top: 20px;
+}
+.input-heading {
+	padding: 35px;
+	font-size: 20px;
+	text-align: center;
+}
+.input-body {
+	text-align: center;
+}
+.input-body input{
+	margin-bottom: 30px;
+	padding: 10px 0;
+	width: 35%;
+	padding-left: 10px;
+	background: none;
+	border: none;
+	border-bottom: 1px solid;
+}
+.input-body i{
+	font-size: 16px;
+}
+
+/* button */
+
+button{
+	margin: 0 auto;
+	margin-top: 80px;
+	margin-bottom: 80px;
+	padding: 20px 50px 20px 50px;
+}
+.box {
+	padding: 20px;
+	text-align: center;
+}
+
+/* ending part */
+
+.lh{
+    margin-bottom: 40px;
+    background: #F0F0F0;
+    padding: 20px;
+    text-align: left;
+}
